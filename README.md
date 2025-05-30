@@ -9,4 +9,4 @@ This micro service stores information about the relationships between users and 
 ## Running Locally
 1. It is recommended to run in a virtual environment.
 2. Install dependancies using ```pip install -r requirements.txt```.
-3. Run using ```python manage.py runserver 8004```.
+3. Run using ```python manage.py runserver 8003```.
